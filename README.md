@@ -43,3 +43,11 @@ The TradingView Ticker Analysis script is a Python program that retrieves techni
 
    ```shell
    python technicalrecommendation.py
+
+9. Enter the ticker symbol when prompted.
+
+10. The script will retrieve the technical analysis data, display the summary, signal counts, and overall recommendation.
+
+## Note
+
+This script relies on web scraping to retrieve data from the TradingView website. Changes to the website's structure or policies may affect the script's functionality. Use this script responsibly and ensure compliance with any applicable terms of service or usage restrictions set by TradingView. The analysis provided by this script is based on the data available on TradingView and does not guarantee the accuracy or reliability of the analysis or the resulting recommendation.
